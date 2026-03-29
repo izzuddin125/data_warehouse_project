@@ -6,6 +6,7 @@
 1. NUMBERED LIST
 - [ ] CHECKLIST
 - LIST
+<BR>
 ___BOLD TEXT___<BR>
 **BOLD TEXT**
 
