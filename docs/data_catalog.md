@@ -6,7 +6,7 @@
 1. NUMBERED LIST
 - [ ] CHECKLIST
 - LIST
-__ BOLD TEXT__
+___BOLD TEXT___
 **BOLD TEXT**
 
 | Left-Aligned | Center-Aligned | Right-Aligned |
