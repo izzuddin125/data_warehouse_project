@@ -6,6 +6,7 @@
 1. gold.dim_customer
 - **Purpose**: Stores customer details enriched with demographic and geographic data
 - **Columns**:
+- <br>
 | Column Name | Data Type | Description |
 | :-----------: |:--------------:| -------------:|
 | This         | is             | an            |
