@@ -3,6 +3,8 @@
 ## HEADING 2
 
 ### HEADING 3
+1. NUMBERED LIST
+- [ ] CHECKLIST
 
 | Left-Aligned | Center-Aligned | Right-Aligned |
 | :----------- |:--------------:| -------------:|
