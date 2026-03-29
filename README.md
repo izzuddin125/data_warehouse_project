@@ -6,6 +6,10 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
+## :anchor: Data Architecture
+
+---
+
 
 ## 🚀 Project Requirements
 
