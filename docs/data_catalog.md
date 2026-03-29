@@ -1,12 +1,11 @@
 # Data Dictionary For Gold Layer
 
-## HEADING 2
-
-### HEADING 3
-1. gold.dim_customer
+## Overview
+<br>The Gold Layer is the business-level data representation, structured to support analytical and reporting use cases. it consist of dimension tables and fact tables for specific business metrics.<br>
+### 1. gold.dim_customer
 - **Purpose**: Stores customer details enriched with demographic and geographic data
 - **Columns**:
-- <br>
+
 | Column Name | Data Type | Description |
 | :-----------: |:--------------:| -------------:|
 | customer_key| BIGINT | Surrogate key uniquely identifying each customer record in the dimension table |
