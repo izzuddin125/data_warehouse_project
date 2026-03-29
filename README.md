@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-## :anchor: Project Overview
+## 📝: Project Overview
 
 This project involves:
 
@@ -18,10 +18,16 @@ This project involves:
 ---
 
 
-## :anchor: Data Architecture
+## ⚓: Data Architecture
 
 The data architecture used for this project is Medallion Architecture **Bronze**,**Silver**, and **Gold** layers:
-![Data Architecture Diagram](docs.data_architecture.png)
+![Data Architecture Diagram](docs/data_architecture.png)
+
+1. **Bronze**: Stores raw data as-is from the source. Ingest data from CSV files into SQL Server Database
+2. **Silver**: Transformed and cleansed data from bronze layer to prepare for data analysis
+3. **Gold**: Stores business-ready data model into a star schema required for reporting and analysis
+
+
 ---
 
 
